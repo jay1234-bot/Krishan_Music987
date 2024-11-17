@@ -9,18 +9,18 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID", "16457832"))
-API_HASH = getenv("API_HASH", "3030874d0befdb5d05597deacc3e83ab")
+API_ID = int(getenv("API_ID", "25933675"))
+API_HASH = getenv("API_HASH", "b648426d4d353c3ef48b056e10ecbe4a")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@UTTAM470")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@censored_politicsss")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "BABY_MUSIC09_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "mbvmusic_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 MBV ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 MBV ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
 
 API_KEY = "abc921ff654bcf7b3faff8f775d781d8d27d32bfd02d6692eea30249ba781c8b"  # अपना API key यहाँ डालें
 # ---------------------------------------------------------
@@ -37,10 +37,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002043570167"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002292222138"))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", "7131351568"))
+OWNER_ID = int(getenv("OWNER_ID", "811413470"))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -56,7 +56,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/BABY-MUSIC/SPOTIFY_MUSIC",
+    "https://github.com/jay1234-bot/Krishan_Music987",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -70,10 +70,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BABY09_WORLD")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+OL6jdTL7JAJjYzVl")
-SOURCE = getenv("SOURCE", "https://github.com/BABY-MUSIC/BABYXMUSIC")
-CHAT = getenv("CHAT", "https://t.me/chattinghuboo")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MBV_NETWORK")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/mbvmusicsupport")
+SOURCE = getenv("SOURCE", "https://github.com/jay1234-bot/Krishan_Music987")
+CHAT = getenv("CHAT", "https://t.me/mbvmusicsupport")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
