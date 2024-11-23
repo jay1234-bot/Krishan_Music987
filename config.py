@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH", "b648426d4d353c3ef48b056e10ecbe4a")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@censored_politicsss")
+OWNER_USERNAME = getenv("OWNER_USERNAME","censored_politicsss")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "mbvmusic_bot")
 # --------------------------------------------------------
